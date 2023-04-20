@@ -1,4 +1,4 @@
-package com.partycity.api.PartyCityAPIs;
+package com.partycity.api.baseclass;
 
 /**
  * Hello world!
