@@ -5,9 +5,7 @@ import org.junit.runners.Suite;
 
 @RunWith(Suite.class)
 @Suite.SuiteClasses({
-    Test1.class,
-    Test2.class,
-    Test3.class
+   
 })
 public class TestSuite {
     // This class can be left empty.

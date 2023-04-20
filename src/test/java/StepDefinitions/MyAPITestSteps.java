@@ -1,23 +1,19 @@
 package StepDefinitions;
 
+import io.cucumber.java.en.*;
 import io.restassured.response.Response;
+import model.RequestPayload;
+import model.ResponsePayload;
+
 import org.testng.Assert;
 
-import com.example.framework.api.APIClient;
-import com.example.framework.api.RequestBuilder;
-import com.example.framework.api.ResponseValidator;
-import com.example.framework.api.Endpoints;
-import com.example.framework.constants.Constants;
-import com.example.framework.models.RequestPayload;
-import com.example.framework.models.ResponsePayload;
-import com.example.framework.utils.TestDataGenerator;
+import api.*;
+import api.RequestBuilder;
 
 import java.util.HashMap;
 import java.util.Map;
 
-import cucumber.api.java.en.Given;
-import cucumber.api.java.en.Then;
-import cucumber.api.java.en.When;
+
 
 public class MyAPITestSteps {
 

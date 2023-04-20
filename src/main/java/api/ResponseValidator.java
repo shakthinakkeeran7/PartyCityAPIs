@@ -1,5 +1,7 @@
 package api;
 
+import exception.ApiException;
+import exception.InvalidResponseCodeException;
 import io.restassured.response.Response;
 
 public class ResponseValidator {

@@ -1,17 +1,1 @@
-/META-INF/
-/baseclass/
-/endpoints/
-/base/
-/client/
-/constants/
-/schemas/
-/feature/
-/model/
 /api/
-/config/
-/utils/
-/exception/
-/report/
-/snippet/
-/log4j.properties
-/name.class
