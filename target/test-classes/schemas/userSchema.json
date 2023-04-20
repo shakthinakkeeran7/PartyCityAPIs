@@ -1,0 +1,389 @@
+{
+  "posts": [
+    {
+      "name": "Jane Doe",
+      "email": "rewrite@example.com",
+      "age": 35,
+      "id": 1
+    },
+    {
+      "title": "json-server",
+      "author": "typicode",
+      "id": 2
+    },
+    {
+      "title": "json-server",
+      "author": "typicode",
+      "id": 3
+    },
+    {
+      "title": "json-server",
+      "author": "typicode",
+      "id": 4
+    },
+    {
+      "title": "json-server",
+      "author": "typicode",
+      "id": 5
+    },
+    {
+      "title": "json-server",
+      "author": "typicode",
+      "id": 6
+    },
+    {
+      "title": "json-server",
+      "author": "typicode",
+      "id": 7
+    },
+    {
+      "title": "json-server",
+      "author": "typicode",
+      "id": 8
+    },
+    {
+      "firstName": "Michaela",
+      "lastName": "Doe",
+      "email": "johndoe@example.com",
+      "id": 9
+    },
+    {
+      "firstName": "Nella",
+      "lastName": "Doe",
+      "email": "johndoe@example.com",
+      "id": 10
+    },
+    {
+      "firstName": "Mario",
+      "lastName": "Bernier",
+      "email": "Angus.Swaniawski51@gmail.com",
+      "Address": "7509 Candida Crossing",
+      "dob": "Tue Sep 20 2022 00:57:51 GMT+0530 (India Standard Time)",
+      "id": 11
+    },
+    {
+      "firstName": "Kristy",
+      "lastName": "Bashirian",
+      "email": "Geo49@gmail.com",
+      "Address": "490 Henriette Crossroad",
+      "dob": "Sun May 08 2022 04:26:04 GMT+0530 (India Standard Time)",
+      "id": 12
+    },
+    {
+      "firstName": "Tatum",
+      "lastName": "Ziemann",
+      "email": "Jay.Barton@yahoo.com",
+      "Address": "38902 Archibald Crescent",
+      "dob": "Sat Jun 25 2022 04:59:15 GMT+0530 (India Standard Time)",
+      "id": 13
+    },
+    {
+      "firstName": "Marcel",
+      "lastName": "Deckow",
+      "email": "Amya79@yahoo.com",
+      "Address": "41921 Nichole Ports",
+      "dob": "Tue Sep 27 2022 14:15:02 GMT+0530 (India Standard Time)",
+      "id": 14
+    },
+    {
+      "firstName": "Gavin",
+      "lastName": "Hermann",
+      "email": "Etha.Jerde5@hotmail.com",
+      "Address": "08189 Medhurst Lane",
+      "dob": "Wed May 18 2022 05:49:27 GMT+0530 (India Standard Time)",
+      "id": 15
+    },
+    {
+      "firstName": "Paris",
+      "lastName": "Wolff",
+      "email": "Eunice_Barrows@yahoo.com",
+      "Address": "837 Cruickshank Ports",
+      "dob": "Sat Sep 10 2022 14:54:41 GMT+0530 (India Standard Time)",
+      "id": 16
+    },
+    {
+      "firstName": "Jovan",
+      "lastName": "Goodwin",
+      "email": "Jamey.Kemmer21@gmail.com",
+      "Address": "133 Joel Ways",
+      "dob": "Sat Feb 18 2023 07:36:11 GMT+0530 (India Standard Time)",
+      "id": 17
+    },
+    {
+      "title": "json-server",
+      "author": "typicode",
+      "id": 18
+    },
+    {
+      "title": "json-server",
+      "author": "typicode",
+      "id": 19
+    },
+    {
+      "firstName": "Elwyn",
+      "lastName": "Leannon",
+      "email": "Albertha.Jones@yahoo.com",
+      "Address": "735 Sawayn Loop",
+      "dob": "Sun Mar 12 2023 01:21:39 GMT+0530 (India Standard Time)",
+      "id": 20
+    },
+    {
+      "title": "json-server",
+      "author": "typicode",
+      "id": 21
+    },
+    {
+      "firstName": "Larry",
+      "lastName": "Pfeffer",
+      "email": "Augustus4@hotmail.com",
+      "Address": "747 Georgiana Glen",
+      "dob": "Thu Jun 30 2022 10:18:26 GMT+0530 (India Standard Time)",
+      "id": 22
+    },
+    {
+      "title": "json-server",
+      "author": "typicode",
+      "id": 23
+    },
+    {
+      "firstName": "Abigale",
+      "lastName": "Anderson",
+      "email": "Cara_Skiles71@yahoo.com",
+      "Address": "616 Antonio Radial",
+      "dob": "Fri May 20 2022 00:57:10 GMT+0530 (India Standard Time)",
+      "id": 24
+    },
+    {
+      "firstName": "Cassidy",
+      "lastName": "Feil",
+      "email": "Kellen99@hotmail.com",
+      "Address": "66413 Granville Ports",
+      "dob": "Thu Jun 23 2022 00:58:02 GMT+0530 (India Standard Time)",
+      "id": 25
+    },
+    {
+      "firstName": "Kira",
+      "lastName": "Nicolas",
+      "email": "Terry_Upton@gmail.com",
+      "Address": "3587 Wilhelmine Station",
+      "dob": "Mon Nov 21 2022 03:25:08 GMT+0530 (India Standard Time)",
+      "id": 26
+    },
+    {
+      "firstName": "Laron",
+      "lastName": "Klocko",
+      "email": "Brittany82@yahoo.com",
+      "Address": "560 Jadon Lights",
+      "dob": "Thu Aug 04 2022 02:41:37 GMT+0530 (India Standard Time)",
+      "id": 27
+    },
+    {
+      "firstName": "Gabrielle",
+      "lastName": "Corkery",
+      "email": "Elva.Kilback90@hotmail.com",
+      "Address": "0966 Sabrina Pass",
+      "dob": "Sun Jan 01 2023 09:31:29 GMT+0530 (India Standard Time)",
+      "id": 28
+    },
+    {
+      "firstName": "Zackary",
+      "lastName": "Von",
+      "email": "Jayme48@gmail.com",
+      "Address": "2292 Tom Prairie",
+      "dob": "Fri Sep 23 2022 17:25:20 GMT+0530 (India Standard Time)",
+      "id": 29
+    },
+    {
+      "firstName": "Jaren",
+      "lastName": "Weissnat",
+      "email": "Leatha.Mitchell@gmail.com",
+      "Address": "834 Schowalter Shoals",
+      "dob": "Wed Mar 22 2023 11:28:19 GMT+0530 (India Standard Time)",
+      "id": 30
+    },
+    {
+      "firstName": "Charley",
+      "lastName": "Beatty",
+      "email": "Caitlyn.Hettinger@gmail.com",
+      "Address": "61780 Pfeffer Expressway",
+      "dob": "Tue Jun 21 2022 08:46:12 GMT+0530 (India Standard Time)",
+      "id": 31
+    },
+    {
+      "title": "json-server",
+      "author": "typicode",
+      "id": 32
+    },
+    {
+      "firstName": "Wilfred",
+      "lastName": "Gutkowski",
+      "email": "Bernadette_Bechtelar@hotmail.com",
+      "Address": "777 Shanahan Summit",
+      "dob": "Tue Oct 11 2022 01:24:43 GMT+0530 (India Standard Time)",
+      "id": 33
+    },
+    {
+      "title": "json-server",
+      "author": "typicode",
+      "id": 34
+    },
+    {
+      "firstName": "Jonathan",
+      "lastName": "Cronin",
+      "email": "Mariane_Kilback@hotmail.com",
+      "Address": "867 Alexander Harbors",
+      "dob": "Thu May 12 2022 10:07:25 GMT+0530 (India Standard Time)",
+      "id": 35
+    },
+    {
+      "title": "json-server",
+      "author": "typicode",
+      "id": 36
+    },
+    {
+      "firstName": "Elise",
+      "lastName": "Nienow",
+      "email": "Emiliano.Hamill70@gmail.com",
+      "Address": "806 Hauck Turnpike",
+      "dob": "Sat Jul 02 2022 17:09:45 GMT+0530 (India Standard Time)",
+      "id": 37
+    },
+    {
+      "title": "json-server",
+      "author": "typicode",
+      "id": 38
+    },
+    {
+      "firstName": "Eunice",
+      "lastName": "Gottlieb",
+      "email": "Reggie61@yahoo.com",
+      "Address": "82918 Donnell Viaduct",
+      "dob": "Wed Mar 29 2023 20:30:23 GMT+0530 (India Standard Time)",
+      "id": 39
+    },
+    {
+      "title": "json-server",
+      "author": "typicode",
+      "id": 40
+    },
+    {
+      "firstName": "Daryl",
+      "lastName": "Little",
+      "email": "Alexis_Kshlerin@gmail.com",
+      "Address": "7093 Brendan Estate",
+      "dob": "Sun Dec 04 2022 17:25:58 GMT+0530 (India Standard Time)",
+      "id": 41
+    },
+    {
+      "title": "json-server",
+      "author": "typicode",
+      "id": 42
+    },
+    {
+      "firstName": "Pierre",
+      "lastName": "Lebsack",
+      "email": "Merl.Kuhn@hotmail.com",
+      "Address": "4577 Lucienne Locks",
+      "dob": "Wed Sep 14 2022 07:14:14 GMT+0530 (India Standard Time)",
+      "id": 43
+    },
+    {
+      "title": "json-server",
+      "author": "typicode",
+      "id": 44
+    },
+    {
+      "firstName": "Diana",
+      "lastName": "Zulauf",
+      "email": "Morris.Welch99@yahoo.com",
+      "Address": "46677 Alexa Shores",
+      "dob": "Mon Dec 19 2022 17:36:58 GMT+0530 (India Standard Time)",
+      "id": 45
+    },
+    {
+      "title": "json-server",
+      "author": "typicode",
+      "id": 46
+    },
+    {
+      "firstName": "Malvina",
+      "lastName": "Rogahn",
+      "email": "Lora_Kohler84@yahoo.com",
+      "Address": "4945 Alex Pine",
+      "dob": "Tue May 03 2022 04:40:22 GMT+0530 (India Standard Time)",
+      "id": 47
+    },
+    {
+      "firstName": "Maiya",
+      "lastName": "Turcotte",
+      "email": "Hilma.Hermiston10@gmail.com",
+      "Address": "04537 Kaylee Spur",
+      "dob": "Fri Apr 22 2022 02:29:51 GMT+0530 (India Standard Time)",
+      "id": 48
+    },
+    {
+      "firstName": "Hanna",
+      "lastName": "Abernathy",
+      "email": "Jacquelyn_Wehner@yahoo.com",
+      "Address": "73631 Roberts Creek",
+      "dob": "Thu Feb 02 2023 01:23:30 GMT+0530 (India Standard Time)",
+      "id": 49
+    },
+    {
+      "firstName": "Rubie",
+      "lastName": "Leuschke",
+      "email": "Audra_Rutherford@hotmail.com",
+      "Address": "895 Dalton Oval",
+      "id": 50
+    },
+    {
+      "firstName": "Bonita",
+      "lastName": "Rosenbaum",
+      "email": "Trenton_Schmitt@hotmail.com",
+      "Address": "108 Keeling Dam",
+      "dob": "Sun Oct 23 2022 17:43:16 GMT+0530 (India Standard Time)",
+      "id": 51
+    },
+    {
+      "name": "John Doe",
+      "email": "johndoe@example.com",
+      "age": 30,
+      "id": 52
+    },
+    {
+      "name": "nakkeeran",
+      "email": "nakkeeran@ample.com",
+      "age": 30,
+      "id": 53
+    },
+    {
+      "name": "nakkeeran",
+      "email": "nakkeeran@ample.com",
+      "age": 30,
+      "id": 54
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+,
+  "users":[ {
+    "UserName": "typicode",
+    "password":"shahti",
+        "id": 1
+  },
+  
+  {
+    "UserName": "typicode",
+    "password":"nakkeeran",
+        "id": 2
+  }
+  ]
+}
