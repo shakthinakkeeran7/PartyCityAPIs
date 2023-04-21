@@ -1,6 +1,6 @@
 package api;
 public class Endpoints {
-    public static final String BASE_URL = "http://localhost:3000";
+    public static final String BASE_URL = "http://localhost:8081";
 
     // Example endpoints for a JSON server
     public static final String GET_USERS = BASE_URL + "/users";

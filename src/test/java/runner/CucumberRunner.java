@@ -5,7 +5,7 @@ import io.cucumber.testng.CucumberOptions;
 @CucumberOptions(
     features = "src/test/resources/feature/UserStepdefinition.feature",
     glue = "StepDefinitions",
-    dryRun = true
+    dryRun = false
 )
 public class CucumberRunner extends AbstractTestNGCucumberTests {
 

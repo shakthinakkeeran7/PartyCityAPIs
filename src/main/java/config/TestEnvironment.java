@@ -10,7 +10,7 @@ public class TestEnvironment {
     }
 
     public String getBaseUrl() {
-        return baseUrl;
+        return this.baseUrl;
     }
 
     public void setBaseUrl(String baseUrl) {
@@ -18,10 +18,14 @@ public class TestEnvironment {
     }
 
     public String getApiEndpoint() {
-        return apiEndpoint;
+        return this.apiEndpoint;
     }
 
     public void setApiEndpoint(String apiEndpoint) {
         this.apiEndpoint = apiEndpoint;
+    }
+    
+    public String getFullUrl() {
+        return this.baseUrl + this.apiEndpoint;
     }
 }

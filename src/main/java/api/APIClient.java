@@ -10,9 +10,9 @@ import io.restassured.config.EncoderConfig;
 import io.restassured.config.RestAssuredConfig;
 import io.restassured.http.ContentType;
 import io.restassured.response.Response;
-import model.ResponsePayload;
 import okhttp3.OkHttpClient;
 import okhttp3.Request;
+import utils.ResponsePayload;
 
 public class APIClient {
 	private TestEnvironment testEnvironment;

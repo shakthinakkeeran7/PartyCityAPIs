@@ -39,4 +39,7 @@ public class ResponseValidator {
                 throw new InvalidResponseCodeException("Invalid response code: " + statusCode, statusCode);
         }
     }
+
+		
+
 }

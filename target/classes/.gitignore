@@ -1,3 +1,6 @@
 /api/
 /META-INF/
 /config/
+/endpoints/
+/model/
+/utils/

@@ -1,4 +1,4 @@
-package StepDefinitions;
+package runner;
 import api.APIClient;
 import config.AppConfig;
 import config.AuthorizationManager;
@@ -7,8 +7,8 @@ import config.TestEnvironment;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
-import model.ResponsePayload;
 import utils.RequestBuilder;
+import utils.ResponsePayload;
 import utils.ResponseValidator;
 
 public class UserManagementAPISteps {
