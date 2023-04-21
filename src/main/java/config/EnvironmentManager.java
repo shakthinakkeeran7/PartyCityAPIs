@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class EnvironmentManager {
-    private static final String ENV_VAR = "ENVIRONMENT";
+    private static final String ENV_VAR = "QA";
     private static Map<String, String> environments = new HashMap<>();
 
     public static void addEnvironment(String envName, String baseUrl) {

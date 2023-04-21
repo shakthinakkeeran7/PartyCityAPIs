@@ -3,8 +3,8 @@ package exception;
 public class InvalidResponseCodeException extends RuntimeException {
     private int statusCode;
 
-    public InvalidResponseCodeException(int statusCode) {
-        super(String.format("Invalid response code: %d", statusCode));
+    public InvalidResponseCodeException(String message, int statusCode) {
+        super(message);
         this.statusCode = statusCode;
     }
 

@@ -1,8 +1,9 @@
 package api;
 
-import exception.ApiException;
+import exception.*;
 import exception.InvalidResponseCodeException;
 import io.restassured.response.Response;
+
 
 public class ResponseValidator {
     
@@ -20,7 +21,7 @@ public class ResponseValidator {
                 break;
             case 400:
                 // Handle response for bad request (400 Bad Request)
-                throw new InvalidResponseCodeException("Invalid response code: " + statusCode);
+                throw new InvalidResponseCodeException("Invalid response code: " + statusCode, statusCode);
             case 401:
                 // Handle response for unauthorized access (401 Unauthorized)
                 throw new ApiException("Unauthorized access");
@@ -35,7 +36,7 @@ public class ResponseValidator {
                 throw new ApiException("Internal server error");
             default:
                 // Handle response for any other status code not covered above
-                throw new InvalidResponseCodeException("Invalid response code: " + statusCode);
+                throw new InvalidResponseCodeException("Invalid response code: " + statusCode, statusCode);
         }
     }
 }

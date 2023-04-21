@@ -1,14 +1,30 @@
 package config;
 
-public class AuthorizationManager {
-    private static String authToken;
+import java.util.Map;
 
-    public static String getAuthToken() {
+public class AuthorizationManager {
+	private final TestEnvironment testEnvironment;
+    private static String authToken;
+    private Map<String, String> headers;
+
+    public AuthorizationManager(TestEnvironment testEnvironment) {
+    	 this.testEnvironment = testEnvironment;
+	}
+
+	public static String getAuthToken() {
         if(authToken == null) {
             // Authenticate and retrieve auth token
             authToken = authenticateAndGetToken();
         }
         return authToken;
+    }
+    
+    public String getAuthorizationHeader() {
+        String token = AuthorizationManager.getAuthToken();
+        if (token != null) {
+            headers.put("Authorization", "Bearer " + token);
+        }
+		return token;
     }
 
     private static String authenticateAndGetToken() {
